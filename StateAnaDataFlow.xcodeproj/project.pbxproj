@@ -65,12 +65,12 @@
 			children = (
 				A88811512A3A1FFC00A4487D /* StateAnaDataFlowApp.swift */,
 				687BFF5C2A3DFCBE00D770C5 /* UserManager.swift */,
-				A88811532A3A1FFC00A4487D /* ContentView.swift */,
+				A88811632A3A3FE800A4487D /* UserSettings.swift */,
 				687BFF602A3E01A400D770C5 /* ButtonView.swift */,
 				A88811612A3A3F0100A4487D /* LoginView.swift */,
-				A88811652A3A411000A4487D /* RootView.swift */,
 				A888115F2A3A388800A4487D /* TimeCounter.swift */,
-				A88811632A3A3FE800A4487D /* UserSettings.swift */,
+				A88811652A3A411000A4487D /* RootView.swift */,
+				A88811532A3A1FFC00A4487D /* ContentView.swift */,
 				A88811552A3A1FFD00A4487D /* Assets.xcassets */,
 				A88811572A3A1FFD00A4487D /* Preview Content */,
 			);
